@@ -3,6 +3,7 @@ module.exports = {
   flags: { PRESERVE_WEBPACK_CACHE: true },
   siteMetadata: {
     title: "Gatsby-Proof-of-Concept",
+    siteUrl: "https://abc.com",
   },
   plugins: [
     {
